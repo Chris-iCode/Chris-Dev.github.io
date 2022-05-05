@@ -1,0 +1,59 @@
+#html5 {
+    border-radius: 50%;
+  }
+
+  #css3 {
+    border-radius: 50%;
+  }
+
+  #js5 {
+    border-radius: 50%;
+  }
+
+  /* .bd-placeholder-img{
+    height: 550px;
+
+  } */
+
+  #twitter {
+    text-decoration: none;
+  }
+
+  #github {
+    text-decoration: none;
+  }
+
+  #about {
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  }
+
+  #skills {
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  }
+
+  #projects {
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 70px;
+  padding-left: 0px;
+  }
+
+  #mern {
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  }
+
+  #node {
+  padding-top: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 0px;
+  }
